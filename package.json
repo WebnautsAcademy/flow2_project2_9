@@ -1,0 +1,25 @@
+{
+  "name": "business-analitics",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp html",
+    "start": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbarchuk/flow2_project2_9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbarchuk/flow2_project2_9/issues"
+  },
+  "homepage": "https://github.com/dbarchuk/flow2_project2_9#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2"
+  }
+}
